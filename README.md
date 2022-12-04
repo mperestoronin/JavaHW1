@@ -11,4 +11,7 @@
 
  * Программа написанна на Oracle Openjdk 19.0.1, Build System: intelliJ
  
+ По любым вопросом пишите 
+ <br>Телеграм @Maxim_Perestoronin
+ <br>Почта mdperestoronin@edu.hse.ru
  Приятной проверки :)
