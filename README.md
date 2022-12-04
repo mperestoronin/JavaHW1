@@ -14,4 +14,6 @@
  По любым вопросом пишите 
  <br>Телеграм @Maxim_Perestoronin
  <br>Почта mdperestoronin@edu.hse.ru
+ 
+ P.S.
  <br>Приятной проверки :)
