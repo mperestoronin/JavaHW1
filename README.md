@@ -10,4 +10,4 @@
 * В работе реализован весь требуемый функционал за исключением продвинутого режима.
 
 
- *Программа написанна на Oracle Openjdk 19.0.1, Build System: intelliJ
+ * Программа написанна на Oracle Openjdk 19.0.1, Build System: intelliJ
